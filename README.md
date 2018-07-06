@@ -5,7 +5,7 @@ That's how this is named.
 ## [DOHyUNG](https://github.com/OlliStudio/DOHyUNG-Java)
 This repo is a simple version of [this repo](https://github.com/OlliStudio/DOHyUNG-Java).  
 The repo is more complex (it uses custom classes, and S-DOHyUNG uses int)  
-**So, we asume that all dividing and subtracting will give exact 'int' values, if it is divided wrong, it might be because of the simple system.**
+**So, we assume that all dividing and subtracting will give exact 'int' values, if it is divided wrong, it might be because of the simple system.**
 # S - DOHyUNG
 DOHyUNG는 **S**imple - **D**ots and **O**ther figures **Hy**per **U**ltra **N**eatly **G**enerated 의 이니셜입니다.  
 그리고, 한국어 "도형"의 영어표기이기도 합니다.  
