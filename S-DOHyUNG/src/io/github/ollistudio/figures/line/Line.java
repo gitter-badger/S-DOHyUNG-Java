@@ -2,6 +2,7 @@ package io.github.ollistudio.figures.line;
 
 import io.github.ollistudio.figures.circle.Circle;
 import io.github.ollistudio.figures.dot.Dot;
+import io.github.ollistudio.util.calculation.Square;
 
 public class Line {
 	public int yintercept;
@@ -22,8 +23,8 @@ public class Line {
 		int circle2_x = circle2.cx*-2;
 		int circle1_y = circle1.cy*-2;
 		int circle2_y = circle2.cy*-2;
-		int circle1_n = circle1.cx^2 + circle1.cy^2;
-		int circle2_n = circle2.cx^2 + circle2.cy^2;
+		int circle1_n = Square.square(circle1.cx) + Square.square(circle1.cy);
+		int circle2_n = Square.square(circle2.cx) + Square.square(circle2.cy);
 		int linex = circle1_x-circle2_x;
 		int liney = circle1_y-circle2_y;
 		int linen = circle1_n-circle2_n;
