@@ -19,4 +19,9 @@ public class Dot {
 			return true;
 		return false;
 	}
+	public void getDot(Line line1, Line line2)
+	{
+		this.x = -1 * (line1.yintercept - line2.yintercept) / (line1.slope - line2.slope);
+		this.y = line1.slope * this.x + line1.yintercept;
+	}
 }
