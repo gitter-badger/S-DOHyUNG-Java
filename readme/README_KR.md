@@ -12,4 +12,5 @@ S-DOHyUNG **S**imple - **D**ots and **O**ther figures **Hy**per **U**ltra **N**e
 ## 팀 DOHyUNG 멤버
 - **관리자 [jhseo1107 (올리)](https://github.com/jhseo1107)**
 
+# [Project DOHyUNG](https://github.com/orgs/OlliStudio/projects/2)
 이 레포의 공식 프로젝트입니다.
