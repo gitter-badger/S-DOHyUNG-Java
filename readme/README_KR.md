@@ -14,3 +14,13 @@ S-DOHyUNG **S**imple - **D**ots and **O**ther figures **Hy**per **U**ltra **N**e
 
 # [Project DOHyUNG](https://github.com/orgs/OlliStudio/projects/2)
 이 레포의 공식 프로젝트입니다.
+
+# 릴리즈
+
+## v0.1
+
+### v0.1.0
+
+#### 프리-알파
+
+- [v0.1.0-pre-alpha-.1](https://github.com/OlliStudio/S-DOHyUNG-Java/releases/tag/v0.1.0-pre-alpha.1)
