@@ -11,7 +11,7 @@ The repo is more complex (it uses custom classes, and S-DOHyUNG uses int)
 This Repo is led by Team DOHyUNG.   
 ![](https://avatars0.githubusercontent.com/t/2815408?s=280&v=4)
 ## Team DOHyUNG members
--**Maintainer [jhseo1107 (올리)](https://github.com/jhseo1107)**
+- **Maintainer [jhseo1107 (올리)](https://github.com/jhseo1107)**
 # [Project DOHyUNG](https://github.com/orgs/OlliStudio/projects/2)
 The official project for this repo.  
 
