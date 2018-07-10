@@ -10,6 +10,6 @@ S-DOHyUNG **S**imple - **D**ots and **O**ther figures **Hy**per **U**ltra **N**e
 이 레포는 팀 DOHyUNG이 담당합니다. 
 
 ## 팀 DOHyUNG 멤버
--**관리자 [jhseo1107 (올리)](https://github.com/jhseo1107)**
+- **관리자 [jhseo1107 (올리)](https://github.com/jhseo1107)**
 
 이 레포의 공식 프로젝트입니다.
