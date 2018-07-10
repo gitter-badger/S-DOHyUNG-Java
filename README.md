@@ -15,15 +15,7 @@ This Repo is led by Team DOHyUNG.
 # [Project DOHyUNG](https://github.com/orgs/OlliStudio/projects/2)
 The official project for this repo.  
 
-# Releases
 
-## v0.1
-
-### v0.1.0
-
-#### pre - alpha
-
-- [v0.1.0-pre-alpha-.1](https://github.com/OlliStudio/S-DOHyUNG-Java/releases/tag/v0.1.0-pre-alpha.1)
 
 # Other Languages for README.md
 - [ko_KR](https://github.com/OlliStudio/S-DOHyUNG-Java/blob/master/readme/README_KR.md)
