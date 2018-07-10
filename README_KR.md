@@ -7,7 +7,7 @@ S-DOHyUNG **S**imple - **D**ots and **O**ther figures **Hy**per **U**ltra **N**e
 **이 레포의 특성상 저희는 모든 나눗셈과 뻴샘이 정확한 'int'값이 나올 것을 가정하고 제작되었습니다. 만약 제대로 계산되지 않았다면, 단순한 구조 때문에 그럴 수 있습니다.**
 
 # 팀 DOHyUNG
-이 레포는 xla DOHyUNG이 담당합니다. 
+이 레포는  DOHyUNG이 담당합니다. 
 
 ## 팀 DOHyUNG 멤버
 -**관리자 [jhseo1107 (올리)](https://github.com/jhseo1107)**
