@@ -1,4 +1,7 @@
 # S-DOHyUNG
+
+[![Join the chat at https://gitter.im/S-DOHyUNG-Java/Lobby](https://badges.gitter.im/S-DOHyUNG-Java/Lobby.svg)](https://gitter.im/S-DOHyUNG-Java/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 S-DOHyUNG is the initial of **S**imple - **D**ots and **O**ther figures **Hy**per **U**ltra **N**eatly **G**enerated.  
 DOHyUNG's sounds also means "figure" in korean (도형)  
 That's how this is named.  
